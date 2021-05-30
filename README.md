@@ -1,7 +1,7 @@
 # Can Of Books
 
-**Author**: Mahmoud Saadeh & Alaa Abu Issa
-**Version**: 1.0.0
+**Author**: Alaa Abu Issa & Mahmoud Saadeh 
+**Version**:  2.25.1
 
 ## Overview
 
@@ -21,7 +21,7 @@ used bootstrap for styling
 
 ## Credit and Collaborations
 
-Alaa Abu Issa
+ Mahmoud Saadeh 
 
 ---
 
