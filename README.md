@@ -18,10 +18,11 @@ used bootstrap for styling
 ## Change Log
 
 30-05-2021 4:00pm - Application now has Login feature.
+31-05-2021 5:00pm - Application now able to store data in mongodb.
 
 ## Credit and Collaborations
 
-Alaa Abu Issa
+Mahmoud Saadeh & Alaa Abu Issa
 
 ---
 
