@@ -6,9 +6,7 @@ import BestBooks from './components/BestBooks';
 import './myFavoriteBooks.css';
 import { withAuth0 } from '@auth0/auth0-react';
 import axios from 'axios';
-
 import AddBook from './components/AddBook';
-
 class MyFavoriteBooks extends React.Component {
   state = {
     show: false,
@@ -22,17 +20,14 @@ class MyFavoriteBooks extends React.Component {
       books: books.data,
     });
   };
-
   getNewBookData = (newBooks) => {
     this.setState({
       books: newBooks,
       show: false,
     });
   };
-
   handleClose = () => this.setState({ show: false });
   handleShow = () => this.setState({ show: true });
-
   render() {
     return (
       <Jumbotron>
@@ -51,5 +46,4 @@ class MyFavoriteBooks extends React.Component {
     );
   }
 }
-
 export default withAuth0(MyFavoriteBooks);
