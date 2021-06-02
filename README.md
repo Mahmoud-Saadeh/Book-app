@@ -1,7 +1,7 @@
 # Can Of Books
 
-**Author**: Alaa Abu Issa & Mahmoud Saadeh 
-**Version**:  2.25.1
+**Author**: Alaa Abu Issa & Mahmoud Saadeh
+**Version**: 2.0.0
 
 ## Overview
 
@@ -22,13 +22,27 @@ used bootstrap for styling
 
 ## Credit and Collaborations
 
-
 Mahmoud Saadeh & Alaa Abu Issa
-
 
 ---
 
 Name of feature: Login
+
+Estimate of time needed to complete: 1 hour
+
+Actual time needed to complete: 1 hour
+
+---
+
+Name of feature: Add & Delete a Book
+
+Estimate of time needed to complete: 2.5 hours
+
+Actual time needed to complete: 3 hours
+
+---
+
+Name of feature: update a Book
 
 Estimate of time needed to complete: 1 hour
 
